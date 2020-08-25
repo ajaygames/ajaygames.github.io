@@ -25400,7 +25400,7 @@ K.ON.prototype={
 $0:function(){this.a.f=this.b},
 $S:0}
 F.vi.prototype={
-T:function(a,b){return new S.nY(new K.nq(null),"Flutter Demo",X.X4(C.ar).KG(C.dM,new P.y(4278193711),X.a3f()),null)}}
+T:function(a,b){return new S.nY(new K.nq(null),"Blox - The Game of Blocks",X.X4(C.ar).KG(C.dM,new P.y(4278193711),X.a3f()),null)}}
 S.oy.prototype={
 aS:function(){var s,r=4294967295,q=C.kp.qY(r)&4294967295
 q=P.bf(255,(16711680&q)>>>16,(65280&q)>>>8,(255&q)>>>0)
