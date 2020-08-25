@@ -1,6 +1,6 @@
 {
-    "name": "blox_flutter",
-    "short_name": "blox_flutter",
+    "name": "Blox - The Game of Blocks",
+    "short_name": "Blox",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
