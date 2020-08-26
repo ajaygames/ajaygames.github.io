@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "ba5ae01d47e94e9386078d95a3fcb568",
 "/": "ba5ae01d47e94e9386078d95a3fcb568",
-"main.dart.js": "3c90167e4cc9d6d154dfad816f3fb2b3",
+"main.dart.js": "64481cedf049cb670058c2312d7dc1b0",
 "favicon.png": "91aadfced58b7eacca100a529e014a3d",
 "icons/icon-192.png": "d805c94954f53253604502e389db0129",
 "icons/icon-512.png": "845aab005fc12285ae82f3324740c2c0",
