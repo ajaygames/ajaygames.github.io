@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "6B563564C5.com.veevaz.Blox",
+        ],
+        "components": [
+          {
+            "/": "/"
+          },
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "6B563564C5.com.veevaz.Blox",
+    ]
+  }
+}
