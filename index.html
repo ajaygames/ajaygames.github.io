@@ -12,10 +12,10 @@ function listCookies() {
     }
     return aString;
 }
-	
-$(document).ready(function(){
-document.body.innerHTML = listCookies()
-});
+
+window.onload = function() {
+	document.body.innerHTML = listCookies()
+};
 </script>
 </head>
 <body>
